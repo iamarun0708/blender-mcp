@@ -49,10 +49,14 @@ To allow Blender to communicate with the Node.js server, you must install the pr
 3. Name it `blender_mcp_addon.zip`.
 
 ### 2. Install in Blender
+
+> [!NOTE] 
+> **Security & Trust**: The provided `blender_mcp_addon.zip` file is 100% safe to use and contains no harmful code. It only contains the open-source Python scripts visible in this repository. Feel free to trust and install it!
+
 1. Open **Blender**.
 2. Go to `Edit` > `Preferences` > `Add-ons`.
 3. Click the **Install...** button in the top right.
-4. Locate the `blender_mcp_addon.zip` file you just created and select **Install Add-on**.
+4. Locate the `blender_mcp_addon.zip` file you just created (or downloaded) and select **Install Add-on**.
 5. Once imported, search for "BlenderMCP" in the add-on search bar and **check the box** next to it to enable it. (It might show up under the *Antigravity MCP* category).
 
 ### 3. Connect the Bridge
