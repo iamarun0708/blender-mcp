@@ -1,6 +1,6 @@
 # Blender MCP for Antigravity AI
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-Custom_Non--Commercial-blue.svg)
 ![Version](https://img.shields.io/badge/version-2.0.0-green.svg)
 
 ## 📌 Description
