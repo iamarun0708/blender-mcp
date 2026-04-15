@@ -1,0 +1,14 @@
+{
+  "name": "blender-mcp-server",
+  "version": "2.0.0",
+  "description": "MCP Bridge Server connecting Antigravity AI to Blender",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+schema_version = "1.0.0"
+
+id = "blender_mcp_addon"
+version = "2.0.0"
+name = "Blender MCP (Antigravity)"
+tagline = "Connect Blender to Antigravity AI via MCP for custom animations"
+maintainer = "Antigravity <contact@antigravity.dev>"
+type = "add-on"
+license = ["SPDX:MIT"]
+blender_version_min = "4.2.0"
